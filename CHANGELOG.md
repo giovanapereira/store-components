@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- Fixed read me of Availability subscriber. Explain that it doesn't warn users.
+- Adapted default text of component to make it less misleading.
+
 ## [3.45.1] - 2019-06-18
 ### Changed
 - Wording on "added to cart" toast.
